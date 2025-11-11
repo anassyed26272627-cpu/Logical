@@ -1,2 +1,2 @@
-# Logical
+# Logical.py
 Logical Regression
